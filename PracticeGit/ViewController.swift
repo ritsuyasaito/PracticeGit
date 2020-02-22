@@ -23,6 +23,9 @@ class ViewController: UIViewController {
     func test2() {
         print("b")
     }
+    func a(){
+        
+    }
 
 
 }
